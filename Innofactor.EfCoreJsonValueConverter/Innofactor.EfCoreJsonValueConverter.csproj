@@ -1,10 +1,10 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <Authors>Innofactor</Authors>
     <Company>Innofactor</Company>
-    <Description>JSON value converter for Entity Framework Core 6.0+</Description>
+    <Description>JSON value converter for Entity Framework Core 8.0+</Description>
     <PackageLicenseUrl>https://github.com/Innofactor/EfCoreJsonValueConverter/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/Innofactor/EfCoreJsonValueConverter</PackageProjectUrl>
     <PackageIconUrl>http://rappen.net/Cinteros/innofactor.png</PackageIconUrl>
@@ -21,7 +21,7 @@
 
   <ItemGroup>
     <PackageReference Include="Innofactor.EfCoreJsonValueConverter.Attributes" Version="2.0.1" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 
