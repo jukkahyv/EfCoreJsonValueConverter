@@ -1,4 +1,4 @@
-﻿# JSON value converter for Entity Framework Core 3.0+
+﻿# JSON value converter for Entity Framework Core 8.0+
 
 ![Publish NuGet](https://github.com/Innofactor/EfCoreJsonValueConverter/workflows/Publish%20NuGet/badge.svg)
 
